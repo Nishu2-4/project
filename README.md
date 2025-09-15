@@ -1,2 +1,1 @@
-"# project" 
-"# project" 
+This project is a Library Management System built using Express.js and MongoDB. It provides an efficient way to manage books, users, and borrowing records in a digital library. The system allows administrators to add, update, and remove books, while users can search, borrow, and return books seamlessly. With a RESTful API structure and MongoDB integration, it ensures scalable data handling and smooth backend operations.
